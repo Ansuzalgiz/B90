@@ -10,7 +10,7 @@ The goal of the B90 project is to make a FN P90 inspired electric flywheel BOOMc
 |Flywheels       |2         |Flywheels                                                   |
 |Pusher motor    |1         |130 sized motor for pusher (180 might work)                                
 |Worm gear       |1         |For pusher https://www.amazon.com/gp/product/B00EPQMKHQ/ref=oh_aui_detailpage_o09_s00 |
-|Heat set threaded inserts| ? | To hold in screws (McMaster 9657K56)                     |
+|Heat set threaded inserts| ? | To hold in screws (McMaster 94180A333)                     |
 |Spring                   | 1 | For magazine catch (McMaster 9657K56)                    |
 |M3 Socket head screws    | ? | Various lengths to hold components in place              |
 |M2 screws                | 4 | For flywheel motors                                      |
